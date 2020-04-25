@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /api/
+Disallow: /App/
+Disallow: /Config/
+Disallow: /Controllers/
+Disallow: /gates/
+
